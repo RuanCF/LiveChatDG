@@ -83,3 +83,15 @@ C:\Users\ruan-\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\refint\Li
 C:\Users\ruan-\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.pdb
 C:\Users\ruan-\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.genruntimeconfig.cache
 C:\Users\ruan-\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\ref\LiveChatDG.dll
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.csproj.AssemblyReference.cache
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.AssemblyInfoInputs.cache
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.AssemblyInfo.cs
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.csproj.CoreCompileInputs.cache
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.RazorAssemblyInfo.cache
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.RazorAssemblyInfo.cs
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.dll
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\ref\LiveChatDG.dll
+C:\Users\ruanc\Documents\GitHub\LiveChatDG\LiveChatDG\obj\Debug\net5.0\LiveChatDG.pdb

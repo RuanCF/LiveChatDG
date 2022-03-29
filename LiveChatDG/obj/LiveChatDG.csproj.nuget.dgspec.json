@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruan-\\Documents\\GitHub\\LiveChatDG\\LiveChatDG\\LiveChatDG.csproj": {}
+    "C:\\Users\\ruanc\\Documents\\GitHub\\LiveChatDG\\LiveChatDG\\LiveChatDG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruan-\\Documents\\GitHub\\LiveChatDG\\LiveChatDG\\LiveChatDG.csproj": {
+    "C:\\Users\\ruanc\\Documents\\GitHub\\LiveChatDG\\LiveChatDG\\LiveChatDG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruan-\\Documents\\GitHub\\LiveChatDG\\LiveChatDG\\LiveChatDG.csproj",
+        "projectUniqueName": "C:\\Users\\ruanc\\Documents\\GitHub\\LiveChatDG\\LiveChatDG\\LiveChatDG.csproj",
         "projectName": "LiveChatDG",
-        "projectPath": "C:\\Users\\ruan-\\Documents\\GitHub\\LiveChatDG\\LiveChatDG\\LiveChatDG.csproj",
-        "packagesPath": "C:\\Users\\ruan-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruan-\\Documents\\GitHub\\LiveChatDG\\LiveChatDG\\obj\\",
+        "projectPath": "C:\\Users\\ruanc\\Documents\\GitHub\\LiveChatDG\\LiveChatDG\\LiveChatDG.csproj",
+        "packagesPath": "C:\\Users\\ruanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruanc\\Documents\\GitHub\\LiveChatDG\\LiveChatDG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ruan-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ruanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,6 +71,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.14, 5.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -79,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
